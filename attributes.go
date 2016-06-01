@@ -1,4 +1,3 @@
-// Special-Use mailboxes extension, as defined in RFC 6154.
 package specialuse
 
 // Mailbox attributes defined in RFC 6154 section 2.
