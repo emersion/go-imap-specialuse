@@ -18,4 +18,7 @@ const (
 	// This mailbox is used to hold messages that have been deleted or marked for
 	// deletion.
 	Trash = "\\Trash"
+	// This mailbox contains messages that are likely important to the user.
+	// (defined in RFC 8457)
+	Important = "\\Important"
 )

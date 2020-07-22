@@ -3,3 +3,6 @@ package specialuse
 
 // The SPECIAL-USE capability.
 const Capability = "SPECIAL-USE"
+
+// The capability for \Important attribute (RFC 8457)
+const ImportantCapability = "IMPORTANT"
